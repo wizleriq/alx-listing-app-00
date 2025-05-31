@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <div className="">
-      <h1 className=" text-center bg-[plum] w-[200px] h-[80px] flex justify-center items-center mx-auto">Wisdom</h1>
+      <h1 className=" text-center bg-green-400 w-[200px] h-[80px] flex justify-center items-center mx-auto">Wisdom</h1>
     </div>
   );
 }
